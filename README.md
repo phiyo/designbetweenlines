@@ -1,2 +1,2 @@
 # designbetweenlines
-Marie Wong -UX Designer Portfolio
+Marie Wong - UX Designer Portfolio
