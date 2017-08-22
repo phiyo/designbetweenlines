@@ -1,2 +1,2 @@
 # designbetweenlines
-Marie Wong - UX Designer Portfolio
+This is the repository for designbetweenlines.com, the UX design porfolio of Marie Wong.
